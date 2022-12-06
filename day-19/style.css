@@ -1,0 +1,12 @@
+.cal{
+    width: 250px;
+}
+input{
+    width:240px ;
+}
+#display{
+    text-align: end;
+}
+.cal .btn{
+    margin:5px;
+}
